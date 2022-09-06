@@ -59,4 +59,4 @@ public class Contest2 {
 	}
 
 }
-Constraints of this program would be that only the words in the list will be considered as spam
+//Constraints of this program would be that only the words in the list will be considered as spam
